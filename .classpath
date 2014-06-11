@@ -13,9 +13,9 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="C:/eclipse-jee-kepler-SR1-win32/rrplay/dbTest/WebContent/WEB-INF/lib/ojdbc6.jar"/>
-	<classpathentry kind="lib" path="C:/eclipse-jee-kepler-SR1-win32/rrplay/dbTest/WebContent/WEB-INF/lib/commons-collections4-4.0.jar"/>
-	<classpathentry kind="lib" path="C:/eclipse-jee-kepler-SR1-win32/rrplay/dbTest/WebContent/WEB-INF/lib/commons-dbcp2-2.0.1.jar"/>
-	<classpathentry kind="lib" path="C:/eclipse-jee-kepler-SR1-win32/rrplay/dbTest/WebContent/WEB-INF/lib/commons-pool2-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/gitTest/dbTest/dbTest/WebContent/WEB-INF/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/gitTest/dbTest/dbTest/WebContent/WEB-INF/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/gitTest/dbTest/dbTest/WebContent/WEB-INF/lib/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/gitTest/dbTest/dbTest/WebContent/WEB-INF/lib/commons-pool-1.6.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
